@@ -19,5 +19,6 @@ ___
 
 ___
 # Story Elements
-
+- Player wakes up as a slime next to a well. Sees a cute dog running off to hopefully compel them to go after it.
+- The language of the inhabitants is unknown to the player, but it can be discovered how to understand.
 ___
