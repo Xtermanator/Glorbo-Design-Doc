@@ -11,7 +11,7 @@ Explore a feywilds like world that lives just beneath the horrible truth on the 
 ___
 # Design Pillars
 1. **Fun Traversal**
-2. **Knowledge Based Upgrades**
+2. **Knowledge Based Unlocks**
 3. **Exploration**
 4. 
 ___
