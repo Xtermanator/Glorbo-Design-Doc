@@ -10,7 +10,10 @@ ___
 Explore a feywilds like world that lives just beneath the horrible truth on the other side of the well. Discover powers beyond Glorbo's imagination as the cute slime finds his world isn't what he ever realized. Eventually coming to the realization that their whole world is inside a game, and using that knowledge to proceed.
 ___
 # Design Pillars
-
+1. **Fun Traversal**
+2. **Knowledge Based Upgrades**
+3. **Exploration**
+4. 
 ___
 # Core System Mechanics
 
