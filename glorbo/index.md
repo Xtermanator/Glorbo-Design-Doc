@@ -17,12 +17,16 @@ ___
 ___
 # Core System Mechanics
 - Slime Metroidvania Mechanics
-	- Jump
-	- Lasso
-	- Sticky / Wall Grab
+	- **Health** - connected to player size???
+	- **Jump** - By expanding the player's body to jump
+	- **Lasso** - Sends out a tendril to lasso onto objects / interactable / environment.
+		- Further upgrade as traversal to swing around quickly or pull player forward at fast speed.
+	- **Sticky / Wall Grab** - Climb up walls.
+		- Combines with **Lasso** to pull heavier things.
 	- Shooting objects out
 	- Shrinking into smaller holes
 - 4th Wall Break Mechanics
+	- Mouse Cursor (The Ivory Triangle) - Becomes something that can interact with the game at a higher level
 	- Pillar/Letterbox movement
 	- Using pause menu / other UI to complete puzzles
 	- Language setting to change unknown language (Hidden)
