@@ -16,8 +16,8 @@ ___
 4. **Impactful Choices**
 ___
 # Core System Mechanics
-- Slime Metroidvania Mechanics
-	- **Health** - connected to player size???
+- Slime Mechanics
+	- **Health** - connected to [[player]] size???
 	- **Jump** - By expanding the player's body to jump
 	- **Lasso** - Sends out a tendril to lasso onto objects / interactable / environment.
 		- Further upgrade as traversal to swing around quickly or pull player forward at fast speed.
