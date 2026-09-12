@@ -10,7 +10,7 @@ configuration:
   baseUrl: glorbo.jamesgame.dev
   ignorePatterns:
     - private
-    - templates
+    - _templates
     - .obsidian
   theme:
     fontOrigin: googleFonts
