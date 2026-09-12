@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9850f4faace99633","x":-560,"y":-520,"width":920,"height":620,"color":"1","type":"group","label":"SOME GROUP"},
+		{"id":"b83ce23805d964d8","x":-480,"y":-360,"width":250,"height":60,"type":"text","text":"This is a test of a canvas page"},
+		{"id":"c73ccfef37336729","x":-116,"y":-360,"width":400,"height":400,"type":"file","file":"test.md"},
+		{"id":"4303aeae44fb93d5","x":-355,"y":220,"width":400,"height":400,"type":"file","file":"01-New Folder/player.md"}
+	],
+	"edges":[
+		{"id":"f07c2b61245d855f","fromNode":"b83ce23805d964d8","fromSide":"bottom","toNode":"c73ccfef37336729","toSide":"left"},
+		{"id":"46df337de9ee0f4b","fromNode":"c73ccfef37336729","fromSide":"top","toNode":"b83ce23805d964d8","toSide":"top"},
+		{"id":"764c24d6108a539f","fromNode":"4303aeae44fb93d5","fromSide":"top","toNode":"9850f4faace99633","toSide":"bottom"}
+	]
+}
