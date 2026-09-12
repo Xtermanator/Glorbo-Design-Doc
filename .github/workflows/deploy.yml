@@ -1,4 +1,4 @@
-name: Glorbo Design Doc
+name: Deploy Quartz site to GitHub Pages
 
 on:
   push:
