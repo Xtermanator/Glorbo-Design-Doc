@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"9850f4faace99633","type":"group","x":-560,"y":-520,"width":920,"height":620,"color":"1","label":"SOME GROUP"},
-		{"id":"b83ce23805d964d8","type":"text","text":"This is a test of a canvas page","x":-480,"y":-360,"width":250,"height":60,"color":"5"},
+		{"id":"b83ce23805d964d8","type":"text","text":"This is a test of a canvas page","x":-480,"y":-360,"width":260,"height":100,"color":"5"},
 		{"id":"c73ccfef37336729","type":"file","file":"test.md","x":-116,"y":-360,"width":400,"height":400,"color":"3"},
 		{"id":"4303aeae44fb93d5","type":"file","file":"01-New Folder/player.md","x":-355,"y":220,"width":400,"height":400,"color":"6"}
 	],
